@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://open-license-manager.github.io/open-license-manager/sitemap.xml

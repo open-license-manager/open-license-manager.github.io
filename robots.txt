@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://open-license-manager.github.io/licensecc/v2.1.0/sitemap.xml
+Sitemap: https://open-license-manager.github.io/licensecc/v2.1.0/sitemap.xml
